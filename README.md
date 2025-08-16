@@ -2,6 +2,21 @@
 
 A decentralized crowdfunding application enabling creators to raise funds transparently through smart contracts built with **thirdweb** platform.
 
+## Screenshots
+
+### Home Page
+![Home UI](./web3cfapp/public/cf-home.png)
+
+### User dashboard
+![Home UI](./web3cfapp/public/cf-userdashboard.png)
+
+### Campaign page
+![Home UI](./web3cfapp/public/cf-campaign.png)
+
+
+### Create Campaign
+![Home UI](./web3cfapp/public/cf-createcampaign.png)
+
 ## 🌟 Features
 
 - **Decentralized Fundraising**: Create and manage crowdfunding campaigns on the blockchain
